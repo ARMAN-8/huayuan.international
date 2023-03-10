@@ -3190,6 +3190,14 @@ button.swiper-pagination-bullet {
     }
 }
 
+.footer-link {
+    color: #fff;
+}
+
+.footer-link:hover {
+    color: #ababab;
+}
+
 .c-section_category:not(:last-child) {
     margin-bottom: 2.66667rem
 }
